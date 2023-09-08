@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "random": "cpp",
+        "core": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "*.tcc": "cpp",
+        "bitset": "cpp",
+        "optional": "cpp",
+        "*.txx": "cpp",
+        "ratio": "cpp",
+        "thread": "cpp",
+        "*.ipp": "cpp",
+        "bit": "cpp",
+        "fstream": "cpp",
+        "condition_variable": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
